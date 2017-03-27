@@ -1,4 +1,6 @@
 #############################################################################################
+
+
 # clean_data.R
 # By : Rudi Kruger
 # Cleans the data for the "Pump it Up:Data Mining the Water Table" competition 
@@ -6,6 +8,8 @@
 # This includes dropping some features, reducing the number of levels for a few factors
 # and creating 2 new derived features
 # Do whatever you want with this
+
+
 #############################################################################################
 
 train <- read.csv("train.csv")
