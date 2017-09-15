@@ -15,3 +15,6 @@ data=driven_data_clean.fillna(method='pad')
 data.isnull().values.any()
 data.dtypes
 
+
+
+
