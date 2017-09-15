@@ -16,5 +16,3 @@ data.isnull().values.any()
 data.dtypes
 
 
-
-
